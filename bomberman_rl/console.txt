@@ -1,0 +1,1 @@
+python main.py play --agents omega_onehot --train 1 --no-gui --n-round 10000
